@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving the image quality of <a href="https://github.com/nudro/favtgan">favtGAN</a> and baselines for the <a href="https://openreview.net/forum?id=Y6sH0l4PExm">chronic cancer pain detection</a>.
+- 🌱 I’m currently learning about Vision Transformers 
+- 👯 I’m looking to collaborate on ^^ ViT and image-to-image translation, and thermal physiology.
+- 📫 How to reach me: <a href="cordun1@umbc.edu">cordun1@umbc.edu</a>
+- 😄 Pronouns: she/her
+
 <!--
 **nudro/nudro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nudro)
