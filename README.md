@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving the image quality of <a href="https://github.com/nudro/favtgan">favtGAN</a> and baselines for the <a href="https://openreview.net/forum?id=Y6sH0l4PExm">chronic cancer pain detection</a>.
-- 🌱 I’m currently revisiting the use of search algorithms and traditional signal processing.
+- 🔭 I’m currently working on multi-modal image translation with GANs and most recently, DDPMs. 
+- 🌱 Other areas of research include chronic pain (affective) multimodal detection, and classical tasks like image registration.
 - 📫 How to reach me: <a href="cordun1@umbc.edu">cordun1@umbc.edu</a>
 - 😄 Pronouns: she/her
 
