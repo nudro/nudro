@@ -1,6 +1,6 @@
 ### About Me 👋
 
-I'm an Adjunct Associate Professor at UMBC in Information Systems. My work primarily focuses on:
+I'm an Adjunct Associate Professor at UMBC in Information Systems. My research and interests are:
 
 - 🎨 **Generative Adversarial Networks (GANs)**
 - 🛡️ **Adversarial Patch Attacks & Adversarial AI**
