@@ -1,21 +1,13 @@
-### Hi there 👋
+### About Me 👋
 
-- 🔭 I’m currently working on multi-modal image translation with GANs and most recently, DDPMs. 
-- 🌱 Other areas of research include chronic pain (affective) multimodal detection, and classical tasks like image registration.
-- 📫 How to reach me: <a href="cordun1@umbc.edu">cordun1@umbc.edu</a>
-- 😄 Pronouns: she/her
+I'm an Adjunct Associate Professor at UMBC in Information Systems. My work primarily focuses on:
 
-<!--
-**nudro/nudro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎨 **Generative Adversarial Networks (GANs)**
+- 🛡️ **Adversarial Patch Attacks & Adversarial AI**
+- 🤖 **Agentic AI & MCP Servers**
+- 🎓 **Multimodal AI**
+- 😐 **Facial Emotion Recognition**
+- 🌡️ **Thermal Physiology**
 
-Here are some ideas to get you started:
+I explore the intersection of technology and human factors, advancing our understanding and application of AI in various domains. Feel free to reach out for collaborations or discussions on these topics.
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
